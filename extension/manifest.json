@@ -1,6 +1,6 @@
 {
-    "name": "Roblox Extension",
-    "description": "Extension for https://www.roblox.com",
+    "name": "Anomic Item Calculator",
+    "description": "Calculates the price for certain Anomic items",
     "version": "1.0.0",
     "manifest_version": 3,
 
